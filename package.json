@@ -37,7 +37,7 @@
     "karma-jasmine-html-reporter": "~2.2.0",
     "postcss": "^8.4.31",
     "tailwindcss": "^4.2.2",
-    "typescript": "~5.9.0"
+    "typescript": "~6.0.2"
   },
   "overrides": {
     "undici": "^7.24.0"
